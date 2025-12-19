@@ -1,1 +1,7 @@
-print("Š «ìªã«ïâ®à ª®¬ ­¤ë [lexa] ¨ [lexa]") 
+print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ [lexa] ï¿½ [lexa]") 
+
+def subtraction(a, b):
+    result = a - b
+    return f"{a} - {b} = {result}"
+
+print(subtraction(8, 2))
